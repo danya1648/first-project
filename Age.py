@@ -8,3 +8,5 @@ def age_func():
 		print("Teenager")
 	else:
 		print("Adult")
+		
+age_func()
